@@ -1,0 +1,20 @@
+# Keep these files out of the repo
+wp-config.php
+wp-content/themes/twenty*
+wp-content/upgrade
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# Hidden files
+.htaccess
+*.log
+*.sql
+.idea
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
+*/vendor/*
+*/tmp
+
